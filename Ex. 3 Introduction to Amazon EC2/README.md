@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: SHAMRIN B
+* **Register Number**: 212224040306
+* **Date of Submission**: 08-03-2026
 
 ---
 
@@ -98,11 +98,17 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+```
+1.First, I logged in to the AWS Management Console and opened the EC2 Dashboard.
+
+2.Then I launched a new EC2 instance using the Amazon Linux 2 AMI and selected the t2.micro instance type.
+
+3.After that, I created a key pair and configured the security group to allow SSH and HTTP access.
+
+4.Next, I connected to the EC2 instance using SSH from the terminal with the downloaded key file.
+
+5.Finally, I monitored the instance, performed start/stop operations, and terminated the instance after completing the lab.
+```
 
 ---
 
@@ -110,21 +116,18 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/3fb4966a-1941-4ec9-aea6-23552881e463" />
 
----
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
 
----
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/e571c248-b89f-4b20-a7b7-b9f57512ca9b" />
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/a36f648b-c442-41b7-81d1-92553b0bbde5" />
 
----
 
 ## Result 
 
